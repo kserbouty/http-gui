@@ -1,6 +1,19 @@
 {
   "name": "http-gui",
   "version": "0.6.0",
+  "description": "Manage resources from my HTTP API.",
+  "keywords": [ "vue", "http", "json"],
+  "homepage": "https://github.com/kserbouty/http-gui",
+  "bugs": {
+    "url": "https://github.com/kserbouty/http-gui/issues",
+    "email": "serbouty.dev@protonmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kserbouty/http-gui.git"
+  },
+  "author": "Karim Serbouty",
+  "license": "MIT",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",

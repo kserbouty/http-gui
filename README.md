@@ -1,6 +1,6 @@
 # HTTP GUI with Vue 2
 
-Manage resources from my [HTTP API](https://gitlab.com/k.serbouty/http-api).
+Manage resources from my [HTTP API](https://github.com/kserbouty/http-api).
 
 ## Features
 
@@ -11,7 +11,7 @@ Manage resources from my [HTTP API](https://gitlab.com/k.serbouty/http-api).
 
 ## Requirements
 
-- [HTTP API](https://gitlab.com/k.serbouty/http-api)
+- [HTTP API](https://github.com/kserbouty/http-api)
 - Node.js
 
 ## Installation
